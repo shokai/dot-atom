@@ -1,0 +1,11 @@
+*~
+*#*
+.DS_Store
+*.log
+blob-store/
+compile-cache/
+storage/
+packages/
+electron/
+.*/
+config.cson
