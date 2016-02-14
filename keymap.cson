@@ -18,3 +18,5 @@
 #
 'atom-workspace':
   'cmd-shift-T': 'atom-terminal:open-project-root'
+'atom-text-editor':
+  'ctrl-y': 'core:paste'
