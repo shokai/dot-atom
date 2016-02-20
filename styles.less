@@ -8,6 +8,8 @@
  * http://www.lesscss.org
  */
 
+@darkred: rgba(200, 50, 50, 0.5);
+
 html * {
   background: rgba(0, 0, 0, 0.1) !important;
   color: rgba(220, 220, 220, 1) !important;
@@ -39,9 +41,13 @@ atom-text-editor::shadow {
     background-color: rgba(0, 0, 0, 0.4) !important;
   }
   .selection .region {
-    background-color: rgba(200, 50, 50, 0.5) !important;
+    background-color: @darkred !important;
   }
   .gutter {
     background-color: rgba(0, 0, 0, 0.1) !important;
+  }
+  .trailing-whitespace {
+    border-bottom: 0px;
+    background-color: @darkred;
   }
 }

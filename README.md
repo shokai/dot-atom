@@ -3,7 +3,17 @@
 - https://github.com/shokai/dot-atom
 
 
-## enable transparency
+## Enable Transparency
 
 - https://github.com/shokai/atom/tree/transparent
 - https://github.com/transcranial/atom-transparency
+
+
+## Packages
+
+- markdown-scroll-sync
+- recent-project
+- underline-trailing-whitespace
+- atom-dynamic-macro
+- minimap
+- terminal-plus
