@@ -1,0 +1,24 @@
+"*":
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "db600324-93ad-1733-06a8-ee979bec86a8"
+  metrics:
+    userId: "8f084ba9adf5b1c7a6d679955c66f4c6eaf261e9"
+  minimap:
+    absoluteMode: true
+  "release-notes":
+    viewedVersion: "0.75.0"
+  tabs: {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnlyLines: true
+    removeTrailingWhitespace: false
