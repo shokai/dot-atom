@@ -16,4 +16,5 @@
 - underline-trailing-whitespace
 - atom-dynamic-macro
 - minimap
+- minimap-autohide
 - terminal-plus

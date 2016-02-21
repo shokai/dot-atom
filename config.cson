@@ -14,6 +14,8 @@
     userId: "8f084ba9adf5b1c7a6d679955c66f4c6eaf261e9"
   minimap:
     absoluteMode: true
+    plugins:
+      "minimap-autohide": true
   "release-notes":
     viewedVersion: "0.75.0"
   tabs: {}
